@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682152736446",
+    "project_id": "face-detection-app-fd3ec",
+    "storage_bucket": "face-detection-app-fd3ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682152736446:android:1197e8b83a8b28bfdc90ef",
+        "android_client_info": {
+          "package_name": "com.rutuja.myfacedetectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682152736446-n5qq2gn7manneloh9mapm3u2it02derk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHrRVvVtfP-zvKUW4IVs1lsrmQHjDE2Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682152736446-n5qq2gn7manneloh9mapm3u2it02derk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
